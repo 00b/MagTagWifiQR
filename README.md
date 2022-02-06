@@ -5,7 +5,7 @@ Code is quick and dirty but works.
 Also displays:
  - ssid
  - password
- - internet IP
+ - internet IP (uses ifconfig.co to get the internet IP)
 
 Required Libraries:
  - adafruit_bitmap_font
