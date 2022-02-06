@@ -26,6 +26,5 @@ Requires following fonts in /fonts/
  or sub you own in following adafruit instructions for font prep https://learn.adafruit.com/custom-fonts-for-pyportal-circuitpython-display/convert-to-pcf).
  
 To maybe do someday:
- - Add some try excepts. 
- - Add logic.
+ - Add some try excepts and error messages if it cannot connect to the internet or network.
  - Add more data or other data screens with additonal network info?
