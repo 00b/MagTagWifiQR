@@ -2,10 +2,11 @@ Displays QRcode for devices (phones, tablets) to quickly connect to a wifi netwo
 
 Code is quick and dirty but works.
 
-Also displays:
- - ssid
+Also displays the following optional values:
+ - ssid 
  - password
  - internet IP (uses ifconfig.co to get the internet IP)
+ - magtag IP
 
 Required Libraries:
  - adafruit_bitmap_font
