@@ -5,7 +5,7 @@ Code is quick and dirty but works.
 Also displays the following optional values:
  - ssid 
  - password
- - internet IP (uses ifconfig.co to get the internet IP)
+ - internet IP (uses https://ifconfig.co to get the internet IP)
  - magtag IP
 
 Required Libraries:
