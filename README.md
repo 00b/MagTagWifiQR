@@ -1,4 +1,6 @@
 Displays QRcode for devices (phones, tablets) to quickly connect to a wifi network. 
+Written for/tested on Circuity Python 7.1
+
 
 Code is quick and dirty but works.
 
