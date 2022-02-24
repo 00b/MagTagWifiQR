@@ -1,7 +1,7 @@
 Displays QRcode for devices (phones, tablets) to quickly connect to a wifi network. 
 Written for/tested on Circuity Python 7.1
 
-Code is quick and dirty but works.
+Code is quick and dirty but works. Currently assumes WPA/2 network. 
 
 Also displays the following optional values:
  - ssid 
@@ -31,3 +31,5 @@ secrets.py file should be populated with wifi info.
 To maybe do someday:
  - Add some try excepts and error messages if it cannot connect to the internet or network.
  - Add more data or other data screens with additonal network info?
+ - Add options for open networks and non-wpa/2 networks. 
+ - Use another file or source for network info aside from secrets.py, to possibly display one network and use another.
