@@ -28,8 +28,8 @@ Requires following fonts in /fonts/
 
 secrets.py file should be populated with wifi info.
 
-To maybe do someday:
+To MAYBE do someday:
  - Add some try excepts and error messages if it cannot connect to the internet or network.
- - Add more data or other data screens with additonal network info?
+ - Add more data or other data screens with additonal network info(ip/cidr/subnetmask,gateway,channel, secuity mode)? 
  - Add options for open networks and non-wpa/2 networks. 
  - Use another file or source for network info aside from secrets.py, to possibly display one network and use another.
